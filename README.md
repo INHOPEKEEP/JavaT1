@@ -15,10 +15,13 @@
 
 ## 核心代码
 
-```
+1```
 public int getSpeed() {
         return speed;
     }
+```
+
+2```
 public int getAmount() {
         return amount;
     }
