@@ -13,12 +13,13 @@
 
 ## 核心代码
 (''')
-public void setSpeed(int speed) {
+    public void setSpeed(int speed) {
         this.speed = speed;
-    }
+        }
 
     public int getSpeed() {
         return speed;
+        }
 (''')
 
 ## 实验结果
