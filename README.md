@@ -12,7 +12,7 @@
 ![](https://github.com/INHOPEKEEP/JavaT1/blob/main/picture/11.png)
 
 ## 核心代码
-' dsddf '
+'this.speed=speed;'
 ## 实验结果
 ![](https://github.com/INHOPEKEEP/JavaT1/blob/main/picture/20%20(2).png)
 
