@@ -32,6 +32,14 @@ public int getAmount() {
         return amount;
     }
 ```
+3.
+```
+CPU cpu = new CPU(2200);
+
+HardDisk HD = new HardDisk(200);
+
+PC pc = new PC();
+```
 ## 实验结果
 
 ![](https://github.com/INHOPEKEEP/JavaT1/blob/main/picture/20%20(2).png)
