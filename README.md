@@ -16,12 +16,18 @@
 ## 核心代码
 1.
 ```
+public void setSpeed(int speed) {
+        this.speed = speed;
+    }
 public int getSpeed() {
         return speed;
     }
 ```
 2.
 ```
+public void setAmount(int amount) {
+        this.amount = amount;
+    }
 public int getAmount() {
         return amount;
     }
