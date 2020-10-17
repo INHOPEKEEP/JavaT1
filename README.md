@@ -34,6 +34,16 @@ public int getAmount() {
 ```
 3.
 ```
+public void setCpu(CPU cpu) {
+        this.cpu = cpu;
+    }
+
+public void setHD(HardDisk hD) {
+        HD = hD;
+    }
+```
+4.
+```
 CPU cpu = new CPU(2200);
 
 HardDisk HD = new HardDisk(200);
